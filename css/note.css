@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.Dept{
+    height: 100%;
+    width: 60%;
+
+}
+.departments {
+   
+    margin-top: 100px;
+}
+.Dept ul li{
+    font-size: 2.2rem;
+    list-style: none;
+    text-decoration: none;
+    height: 40px;
+    background-color: #1abc9c;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.departments ul li a{
+    text-decoration: none;
+    color: black;
+}
